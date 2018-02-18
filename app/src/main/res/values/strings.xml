@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Where Are You?</string>
+    <string name="action_settings">Settings</string>
+    <string name="assign_instruction">*Only name field is required.\nTo assing new friend tap bluetooth button to retrieve your friend\'s device id.\nTap contacts button to fill out user data automatically from your contacts</string>
+    <string name="assign_name">Assign New User</string>
+    <string name="read_contacts_denied">Could not read your contacts. Permissions denied.</string>
+    <string name="access_location_denied">Could not define location. Permissions denied.</string>
+    <string name="read_contacts_explanation">It is required to grant permission for contact reading to fetch general data will displaying in this app</string>
+    <string name="pick_image_intent_text">It is required to create specific texture for this user</string>
+    <string name="device_id">DEVICE_ID</string>
+    <string name="RFComm_Error">Could not create Insecure RFComm Connection</string>
+    <string name="new_friend_result">NEW_FRIEND_RESULT</string>
+    <string name="google_maps_key">AIzaSyBlBBAk4kOCREfhDuw4G9xHCe4Mqt9TWrY</string>
+    <string name="api">http://ujat.rhinoda.com/api/</string>
+    <string name="context_state_initialized">Initialized</string>
+    <string name="context_state_running">Running</string>
+    <string name="context_state_paused">Paused</string>
+    <string name="context_state_finished">Finished</string>
+    <string name="context_state_idle">IDLE</string>
+</resources>

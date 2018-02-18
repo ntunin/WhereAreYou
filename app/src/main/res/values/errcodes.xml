@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_init">The object was not initialized</string>
+    <string name="class_not_fount">Class was not found</string>
+    <string name="constructor_not_fount">Constructor was not found</string>
+    <string name="illegal_access">Access is not resolved</string>
+    <string name="could_not_create">Could not create new instance</string>
+    <string name="could_not_invoke">Could not invoke the method </string>
+    <string name="no_context">Context was not set up </string>
+    <string name="no_grant_resolver">Resolver was not set up for this permission </string>
+    <string name="camera_not_granted">Could not get camera granted permissions</string>
+    <string name="method_not_supported">Method not supported</string>
+    <string name="no_journal">Journal was not injected</string>
+    <string name="no_injector">Injector was not created</string>
+    <string name="no_frame_service">Frame service was not injected</string>
+    <string name="no_motion_sensor">One or more of required sensors not detected</string>
+    <string name="no_resolvers">No any resolvers registered</string>
+    <string name="no_grant_request">Service has not option to request permission</string>
+    <string name="no_accelerometer">Could not register accelerometer feature</string>
+    <string name="no_gyroscope">Could not register gyroscope feature</string>
+    <string name="no_screen">No Instance of rendered screen</string>
+    <string name="camera_connection_error">Could not connect the camera</string>
+    <string name="a_calibration_error">Could not find any "a" calibration sensor</string>
+</resources>

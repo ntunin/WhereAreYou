@@ -1,0 +1,11 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <whereareyou.ntunin.com.whereareyou.cybervision.crvview.crvstackview.GLScreenView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/camera_view"
+        android:background="@android:color/background_light"/>
+
+</FrameLayout>
